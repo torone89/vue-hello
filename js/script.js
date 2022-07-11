@@ -13,6 +13,7 @@ const root = new Vue({
     el: '#root',
     name: 'Start Vue',
     data: {
-        saluto: "Ciao sono Francesco"
+        saluto: "Ciao sono Francesco",
+        immagine: 'https://unsplash.it/600/300?image=2'
     }
 })
